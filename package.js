@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'mykej:iron-router-seo',
+  name: 'nodexpert:iron-router-seo',
   version: '1.0.0',
   summary: 'Simple SEO for iron-router for your Meteor apps.',
-  git: '',
+  git: 'https://github.com/nodexperts/iron-router-seo.git',
   documentation: 'README.md'
 });
 
@@ -11,7 +11,7 @@ Package.onUse(function(api){
 
   api.versionsFrom('1.0');
 
-  api.use(['mongo', 'ecmascript', 'underscore', 'spiderable']);
+  api.use(['mongo', 'ecmascript@0.6.1', 'underscore', 'spiderable']);
 
   api.use([
     'iron:router@1.0.0'

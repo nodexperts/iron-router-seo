@@ -3,7 +3,7 @@
 
 This package allows a user to add meta tags to his Meteor app. It is developed using Jquery, Underscore, and up-and-coming ES2015.
 
-> : construction: **Warning** It is developed primarily for [Iron Router](https://atmospherejs.com/iron/router), so it won't work with other routers.
+>:construction: **Warning** It is developed primarily for [Iron Router](https://atmospherejs.com/iron/router), so it won't work with other routers.
 
 ## Installation
 
