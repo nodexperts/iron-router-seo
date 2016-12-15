@@ -116,7 +116,7 @@ Auto block tells IronRouterSEO to add tags inside set array for og (open-graph) 
 
 ## Demo
 
-Let's create an dummy Meteor site "www.passwordcheck.com" which uses iron-router and let's implement iron-router-seo in it.
+Let's create an dummy Meteor site "passwordcheck" which uses iron-router and let's implement iron-router-seo in it.
 
 For simplicty we have 4 paths in passwordcheck: login, home, generate, and profile.
 In following example we will add deafult seo settings, seo setting for each path and then seo for dynamic path depending on route's parameters.
