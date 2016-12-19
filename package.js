@@ -1,7 +1,7 @@
 Package.describe({
   name: 'nodexpert:iron-router-seo',
-  version: '1.0.0',
-  summary: 'Simple SEO for iron-router for your Meteor apps.',
+  version: '1.0.1',
+  summary: 'Config SEO for your apps using iron-router routes',
   git: 'https://github.com/nodexperts/iron-router-seo.git',
   documentation: 'README.md'
 });
